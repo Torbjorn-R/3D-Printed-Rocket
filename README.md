@@ -15,7 +15,7 @@ This is my final in-depth physics project, where I designed, 3D printed, and lau
 
 ## 🧩 STL Files
 
-All STL files can be found in the [`/STL/`](./STL) folder. Recommended print settings: PLA, 0.2 mm layer height.
+All STL files can be found in the [`/STL/`](./STL) folder. Recommended print settings: PLA, 0.4 mm layer height.
 
 ---
 
