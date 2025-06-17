@@ -2,7 +2,7 @@
 
 # 🚀 3D-Printed Rocket Project
 
-This is was my final in-depth project for physics 1 calss, where I designed, 3D printed, and launched a functional rocket. The repository includes STL files, build photos, instructions (if you want to build your own) and a video of the launch.
+This is was my final in-depth project for physics 1 class, where I designed, 3D printed, and launched a functional rocket. The repository includes STL files, build photos, instructions (if you want to build your own) and a video of the launch.
 
 ---
 
