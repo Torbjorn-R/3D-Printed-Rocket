@@ -1,6 +1,6 @@
 # 🚀 3D-Printed Rocket Project
 
-This is my final in-depth physics project, where I designed, 3D printed, and launched a functional rocket. The repository includes STL files, build photos, instructions, and a video of the launch.
+This is was my final in-depth project for physics 1 calss, where I designed, 3D printed, and launched a functional rocket. The repository includes STL files, build photos, instructions (if you want to build your own) and a video of the launch.
 
 ---
 
@@ -35,10 +35,10 @@ All STL files can be found in the [`/STL/`](./STL) folder. Recommended print set
 
 ## 🔧 Build Process
 
-1. Designed using Fusion 360.
+1. Designed using Onshape.
 2. 3D printed with a BambuLab P1S.
 3. Assembled using epoxy glue.
-4. Launched using compressed air.
+4. Launched using klima C6-5 motors.
 
 ---
 
